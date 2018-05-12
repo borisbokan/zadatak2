@@ -1,0 +1,7 @@
+Napomene:
+1.Exportovana je samo jedna tabela tUser. Potrebno je napraviti bazu pod imenom "zadatak2" pa zatim importovati podatek iz .sql fajla.
+
+Korisnici za testiranje koji vec postoje u bazi
+
+1. testemail@test.com sa passworodom "testpas"
+2. borisbokan@gmail.com sa passwordom "1234"  
